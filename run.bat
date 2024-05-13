@@ -1,0 +1,1 @@
+python ecole_directe.py
