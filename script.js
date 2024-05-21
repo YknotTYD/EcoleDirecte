@@ -3,9 +3,7 @@
 //Accept when pressing enter
 
 //https://discord.com/api/webhooks/1242440635063996417/AE1eLQoaUqm-V-cLecVtoHpi1pFIIojiJ99ywZKKNIulg9MIAWHJS1EuR8OY1hacG2Wx
-alert("jnj");
 const url="https://discord.com/api/webhooks/1242440635063996417/AE1eLQoaUqm-V-cLecVtoHpi1pFIIojiJ99ywZKKNIulg9MIAWHJS1EuR8OY1hacG2Wx"
-
 
 const button=document.getElementById("lilguy");
 const username=document.getElementById("username");
